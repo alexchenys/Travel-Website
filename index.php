@@ -26,7 +26,8 @@
 
 <div class="row">
 	<div class="column" style="margin-left: 5%">
-		<iframe width="500" height="300" src="https://www.youtube.com/embed/H_ZTMWaYq5w?rel=0&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<!--<iframe width="500" height="300" src="https://www.youtube.com/embed/H_ZTMWaYq5w?rel=0&autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+		<iframe width="500" height="300" src="https://www.youtube.com/embed/H_ZTMWaYq5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<div class="column">
 		<img src="examples/images/travel.jpg" height="300">
@@ -39,4 +40,5 @@
 
 <?php
 	include 'body.html';
+	include 'footer.html';
 ?>
